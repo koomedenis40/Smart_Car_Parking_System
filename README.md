@@ -5,6 +5,6 @@ The main objective of this project was to design and implement a system that wou
 ## The Block Diagram for the System
 ![image](https://github.com/koomedenis40/Smart_Car_Parking_System_Code/assets/98518504/febbe753-4add-4462-8f4d-91d42a1f1230)
 
-# System Simulation <br>
+## System Simulation <br>
 ![image](https://github.com/koomedenis40/Smart_Car_Parking_System_Code/assets/98518504/59894066-983d-4d09-b927-2ae90cb3a8a8)
 
